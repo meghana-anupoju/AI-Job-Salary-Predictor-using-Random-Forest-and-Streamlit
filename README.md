@@ -60,7 +60,7 @@ Python 3.9 or higher
 pip package manager
 
 1. Clone the Repository
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/meghana-anupoju/AI-Job-Salary-Predictor-using-Random-Forest-and-Streamlit.git)
 cd YOUR_REPOSITORY_NAME
 
 2. Create a Virtual Environment (Recommended)
